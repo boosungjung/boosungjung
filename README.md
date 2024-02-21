@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Computer Science at Monash
 - 💬 Ask me about ...
 - 📫 How to reach me: jungboosung23@gmail.com
+
+  ![image](https://github.com/boosungjung/boosungjung/assets/68157794/f12bd3e4-3672-4ab5-a71d-5da72b3ac8e3)
+
 <!--
 **boosungjung/boosungjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
