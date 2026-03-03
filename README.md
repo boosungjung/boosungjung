@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on iOS and Web Apps
-- 🌱 I’m currently learning Computer Science at Monash
 - 💬 Ask me about ...
 - 📫 How to reach me: jungboosung23@gmail.com
 
