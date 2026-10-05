@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on iOS and Web Apps
 - 💬 Ask me about ...
-- 📫 How to reach me: jungboosung23@gmail.com
 
   ![image](https://github.com/boosungjung/boosungjung/assets/68157794/f12bd3e4-3672-4ab5-a71d-5da72b3ac8e3)
 
